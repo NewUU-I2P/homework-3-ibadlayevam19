@@ -8,15 +8,15 @@
 using namespace std;
 
 int main() {
-    cout << "Problem 1\n";
-    problemSolution1();
-    cout << "Problem 2\n";
-    problemSolution2();
-    cout << "Problem 3\n";
-    problemSolution3();
-    cout << "Problem 4\n";
-    problemSolution4();
+//    cout << "Problem 1\n";
+//    cout<<problemSolution1(29.9)<<endl;
+//    cout << "Problem 2\n";
+//    cout<<problemSolution2(89, 45, 1982);
+//    cout << "Problem 3\n";
+//    cout<<problemSolution3(1.5,'M');
+//    cout << "Problem 4\n";
+//    cout<<problemSolution4("FFFFFFFFFFFF");
     cout << "Problem 5\n";
-    problemSolution5();
+    cout<<problemSolution5(3,2,'+');
     return 0;
 }
